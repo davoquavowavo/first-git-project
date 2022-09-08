@@ -7,10 +7,8 @@
     padding: 10px;
 }
 
-<style>
- body {
-     background-image: url(https://i.pcmag.com/imagery/articles/04YGKmUR4kalhELBkVuuviO-1.fit_lim.v1569488622.png);
-     background-size: cover;
-     background-attachment: fixed;
- }
-</style>
+
+body {
+    background-color: blue;
+}
+
